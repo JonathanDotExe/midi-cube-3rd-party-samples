@@ -1,0 +1,5 @@
+*.flac binary
+*.wav binary
+*.mp3 binary
+
+autoclrf = input
