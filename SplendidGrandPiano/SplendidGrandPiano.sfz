@@ -50,9 +50,9 @@ ampeg_decay=80
 ampeg_decay_oncc133=-60
 ampeg_sustain=0
 ampeg_release_oncc$RELEASE=2
-amp_veltrack=100 //Edited
-amp_veltrack_oncc$VELTRACK=-100
-amp_veltrack_curvecc$VELTRACK=2
+amp_veltrack=0
+amp_veltrack_oncc$VELTRACK=100 //Edited from -100
+//amp_veltrack_curvecc$VELTRACK=2
 note_polyphony=1
 off_time=0.5
 
